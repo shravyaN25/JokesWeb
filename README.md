@@ -1,4 +1,3 @@
 # JokesWeb
 
-Just pushed a very simple CRUD project, which I built while exploring ASP.NET :)
-Pushed it here so I can look for it sometime again
+Just pushed my ultra‑simple CRUD project, because I figured “Why not put my first ASP.NET and C# experiment on Git, in case I need it for a future ;)
