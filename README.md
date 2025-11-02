@@ -1,3 +1,4 @@
 # JokesWeb
 
-I just pushed my CRUD project, which I built by following a tutorial while exploring ASP.NET :)
+Just pushed a very simple CRUD project, which I built while exploring ASP.NET :)
+Pushed it here so I can look for it sometime again
